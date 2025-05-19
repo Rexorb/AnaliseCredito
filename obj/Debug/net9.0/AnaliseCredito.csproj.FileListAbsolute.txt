@@ -1,0 +1,14 @@
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\bin\Debug\net9.0\AnaliseCredito.exe
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\bin\Debug\net9.0\AnaliseCredito.deps.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\bin\Debug\net9.0\AnaliseCredito.runtimeconfig.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\bin\Debug\net9.0\AnaliseCredito.dll
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\bin\Debug\net9.0\AnaliseCredito.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\AnaliseCredito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\AnaliseCredito.AssemblyInfoInputs.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\AnaliseCredito.AssemblyInfo.cs
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\AnaliseCredito.csproj.CoreCompileInputs.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\AnaliseCredito.dll
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\refint\AnaliseCredito.dll
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\AnaliseCredito.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\AnaliseCredito.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\AnaliseCredito\obj\Debug\net9.0\ref\AnaliseCredito.dll
